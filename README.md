@@ -1,2 +1,2 @@
-# -lk-Web-Sayfam-z-Olu-turmak
+# Ilk-Web-Sayfamizi-Olusturmak
 Kodluyoruzla ilk web sitem
