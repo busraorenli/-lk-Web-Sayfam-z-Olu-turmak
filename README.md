@@ -6,13 +6,11 @@ Kodluyoruzla ilk web sitem
 <h2>Hakkımda</h2>
 <p>Merhaba. Ben Büşra Örenli. Eczacıyım. Doktora yapıyorum. Yazılım öğrenmeye çalışıyorum. Hoşbuldum.</p>
 <h2>Yeteneklerim</h2>
-<p>
     <ul>
         <li>Piyano çalmak</li>
         <li>Gitar çalmak</li>
         <li>Türk işaret dili</li>
     </ul>
-</p>
 <h2>Sevdiğim Diziler</h2>
 <h3>Friends</h3>
 <p>Bir arkadaş grubunun günlük yaşantısını anlatan bir sitcom</p>
