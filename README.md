@@ -16,20 +16,18 @@
 </p>
 <h2>Sevdiğim Diziler</h2>
     <ul>
-    <li>
-        <h3><a href="https://www.imdb.com/title/tt0108778/">Friends</a></h3>
-        <p>Bir arkadaş grubunun günlük yaşantısını anlatan bir sitcom</p>
-        <p>10 sezondur. Ve her bölüm 20 dakikadır.</p>
-        <img src="https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" title="friends fotoğrafı" alt="friends fotoğrafı" width="150" height="200"/>
-    
-        <br>
-    </li>
-    <li>
-        <h3>Seinfeld</h3>
-        <p>İlk bölümü 1989'da yayınlanan sitcomdur.</p>
-        <p>Bir arkadaş grubunun birkaç yerde geçen gündelik hayatını anlatan, konusu "hiçbir şey" olan dizidir.</p>
-        <img src="https://cdnntr1.img.sputniknews.com/img/104019/08/1040190804_0:11:2560:1458_1920x0_80_0_0_ec4093d93d8c44b5fbb7784f30bce512.jpg" title="seinfeld fotoğrafı" alt="seinfeld fotografi" width="250" height="200"/>
-    </li>
+        <li>
+            <h3><a href="https://www.imdb.com/title/tt0108778/">Friends</a></h3>
+            <p>Bir arkadaş grubunun günlük yaşantısını anlatan bir sitcom</p>
+            <p>10 sezondur. Ve her bölüm 20 dakikadır.</p>
+            <img src="https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" title="friends fotoğrafı" alt="friends fotoğrafı" width="150" height="200"/>
+        </li>
+        <li>
+            <h3>Seinfeld</h3>
+            <p>İlk bölümü 1989'da yayınlanan sitcomdur.</p>
+            <p>Bir arkadaş grubunun birkaç yerde geçen gündelik hayatını anlatan, konusu "hiçbir şey" olan dizidir.</p>
+            <img src="https://cdnntr1.img.sputniknews.com/img/104019/08/1040190804_0:11:2560:1458_1920x0_80_0_0_ec4093d93d8c44b5fbb7784f30bce512.jpg" title="seinfeld fotoğrafı" alt="seinfeld fotografi" width="250" height="200"/>
+        </li>
     </ul>
 <h2>Sevdiğim Kitaplar</h2>
 <ul>
